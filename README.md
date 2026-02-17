@@ -1,2 +1,1 @@
-<img width="379" height="342" alt="image" src="https://github.com/user-attachments/assets/db2a6adb-9bde-4562-b705-8e51abedc8b0" />
-
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Project%20Name&fontSize=40&fontColor=ffffff&animation=fadeIn" /> </p> <p align="center"> <b>✨ A short and powerful one-line description of your project ✨</b> </p> <p align="center"> <a href="#"><img src="https://img.shields.io/github/stars/username/repo?style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/github/forks/username/repo?style=for-the-badge" /></a> <a href="#"><img src="https://img.shields.io/github/license/username/repo?style=for-the-badge" /></a> </p>
